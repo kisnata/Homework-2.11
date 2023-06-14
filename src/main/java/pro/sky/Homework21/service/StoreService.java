@@ -26,3 +26,4 @@ public class StoreService {
                 .collect(Collectors.toList());
     }
 }
+
